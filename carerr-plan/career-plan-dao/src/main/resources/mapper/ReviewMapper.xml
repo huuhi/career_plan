@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="career.plan.mapper.ReviewMapper">
+
+    <resultMap id="BaseResultMap" type="career.plan.domain.Review">
+            <id property="id" column="id" jdbcType="BIGINT"/>
+            <result property="content" column="content" jdbcType="VARCHAR"/>
+            <result property="majorid" column="majorId" jdbcType="INTEGER"/>
+            <result property="jobid" column="jobId" jdbcType="BIGINT"/>
+            <result property="userid" column="userId" jdbcType="BIGINT"/>
+            <result property="reportCount" column="report_count" jdbcType="TINYINT"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,content,majorId,
+        jobId,userId,report_count
+    </sql>
+</mapper>

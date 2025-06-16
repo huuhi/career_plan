@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 10%;
+
+    /* Apple风格的蓝色 */
+    --primary: 210 100% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    /* 更柔和的次要颜色 */
+    --secondary: 0 0% 98%;
+    --secondary-foreground: 0 0% 10%;
+
+    /* 更柔和的静音颜色 */
+    --muted: 0 0% 98%;
+    --muted-foreground: 0 0% 45%;
+
+    /* 强调色使用Apple风格的蓝色 */
+    --accent: 210 100% 50%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    /* 更细微的边框颜色 */
+    --border: 0 0% 92%;
+    --input: 0 0% 92%;
+    --ring: 210 100% 50%;
+
+    /* 增加圆角半径 */
+    --radius: 0.75rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "ss01", "ss03", "cv01", "cv02", "cv03";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* 添加平滑过渡效果 */
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+/* 确保按钮显示正确的光标 */
+button,
+a {
+  cursor: pointer;
+}
+
+/* Ensure buttons don't show text cursor */
+button:not([type="button"]),
+.button,
+[role="button"],
+a[href] {
+  cursor: pointer !important;
+}
+
+/* Fix for buttons that might be showing text cursor */
+button span,
+a span {
+  pointer-events: none;
+}
+
+/* 智慧大屏背景和半透明组件样式 */
+.dashboard-background {
+  background-image: url('/images/PC-1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.transparent-card {
+  background-color: rgba(255, 255, 255, 0.3) !important;
+  backdrop-filter: blur(5px);
+}

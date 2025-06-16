@@ -1,0 +1,67 @@
+spring:
+  datasource:
+    url: "jdbc:mysql://39.108.100.68:3306/career_plan?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=Asia/Shanghai&rewriteBatchedStatements=true&useAffectedRows=true"
+    username: hu
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: 2006hu
+    hikari:
+      maximum-pool-size: 50
+      minimum-idle: 10
+      max-lifetime: 600000       # 10分钟（必须比实际失效时间12分钟更短）
+      idle-timeout: 300000       # 5分钟
+      connection-timeout: 10000  # 10秒
+      validation-timeout: 3000   # 3秒
+      leak-detection-threshold: 120000
+      connection-init-sql: "SET SESSION sql_mode='STRICT_TRANS_TABLES'"
+      keepalive-time: 45000      # 45秒发送TCP keepalive
+      data-source-properties:
+        socketTimeout: 20000     # 20秒套接字超时
+        tcpKeepAlive: true
+        maintainTimeStats: false
+      connection-test-query: "select 1"
+  rabbitmq:
+    port: 5672
+    virtual-host: career
+    username: hu
+    password: humq
+    listener:
+      simple:
+        prefetch: 1
+        acknowledge-mode: auto
+        retry:
+          enabled: true
+          initial-interval: 1000ms
+          multiplier: 1
+          max-attempts: 3
+          stateless: true
+    host: 39.108.100.68
+  data:
+    redis:
+      host: 39.108.100.68
+      port: 6379
+      database: 0
+      password: 2006redis
+      lettuce:
+        pool:
+          max-idle: 10
+          max-active: 20
+          min-idle: 5
+    mongodb:
+      uri: "mongodb://root:h9KbZJEKgVyua9rn@39.108.100.68:27017/chat_memory_db?authSource=admin&authMechanism=SCRAM-SHA-1"
+
+
+  main:
+    allow-bean-definition-overriding: true
+logging:
+  level:
+    career:
+      plan:
+        service: debug
+        controller: debug
+        consumer: debug
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+  configuration:
+    default-executor-type: batch

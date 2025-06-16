@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>3.2.10</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+
+    <groupId>career-plan</groupId>
+    <artifactId>career-plan-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>career-plan-dao</module>  <!-- 基础模块先声明 -->
+        <module>career-plan-common</module> <!-- 依赖dao的模块后声明 -->
+        <module>career-plan-service</module>
+        <module>career-plan-web</module>
+    </modules>
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <hutool>5.8.27</hutool>
+        <redisson>3.22.0</redisson>
+        <aliyun.sdk.oss>3.15.1</aliyun.sdk.oss>
+         <jaxb-api>2.3.1</jaxb-api>
+        <my-batis-plus>3.5.6</my-batis-plus>
+        <mysql>8.0.33</mysql>
+        <lombok.version>1.18.30</lombok.version>
+        <jjwt>0.12.5</jjwt>
+        <fastjson>1.2.83</fastjson>
+        <langchain4j-reactor>1.0.0-beta2</langchain4j-reactor>
+        <langchain4j-open-ai>1.0.0-beta2</langchain4j-open-ai>
+        <langchain-spring>1.0.0-beta2</langchain-spring>
+        <jackson-version>2.15.4</jackson-version> <!-- 使用最新版本 -->
+        <amqp-version>3.2.5</amqp-version>
+        <mdb-version>3.3.4</mdb-version>
+    </properties>
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-data-mongodb</artifactId>
+                <version>${mdb-version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.mysql</groupId>
+                <artifactId>mysql-connector-j</artifactId>
+                <version>${mysql}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-databind</artifactId>
+                <version>${jackson-version}</version>
+            </dependency>
+            <dependency>
+                <groupId>dev.langchain4j</groupId>
+                <artifactId>langchain4j-open-ai-spring-boot-starter</artifactId>
+                <version>${langchain-spring}</version>
+                <exclusions>
+                    <exclusion>
+                        <groupId>org.mongodb</groupId>
+                        <artifactId>mongodb-driver-sync</artifactId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>cn.hutool</groupId>
+                <artifactId>hutool-all</artifactId>
+                <version>${hutool}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.redisson</groupId>
+                <artifactId>redisson</artifactId>
+                <version>${redisson}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.aliyun.oss</groupId>
+                <artifactId>aliyun-sdk-oss</artifactId>
+                <version>${aliyun.sdk.oss}</version>
+            </dependency>
+            <dependency>
+                <groupId>javax.xml.bind</groupId>
+                <artifactId>jaxb-api</artifactId>
+                <version>${jaxb-api}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.baomidou</groupId>
+                <artifactId>mybatis-plus-spring-boot3-starter</artifactId>
+                <version>${my-batis-plus}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>${lombok.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.jsonwebtoken</groupId>
+                <artifactId>jjwt</artifactId>
+                <version>${jjwt}</version>
+            </dependency>
+           <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>fastjson</artifactId>
+                <version>${fastjson}</version>
+            </dependency>
+            <dependency>
+                <groupId>dev.langchain4j</groupId>
+                <artifactId>langchain4j-reactor</artifactId>
+                <version>${langchain4j-reactor}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>dev.langchain4j</groupId>
+                <artifactId>langchain4j-open-ai</artifactId>
+                <version>${langchain4j-open-ai}</version>
+            </dependency>
+<!--            amqp-->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-amqp</artifactId>
+                <version>${amqp-version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+
+
+</project>

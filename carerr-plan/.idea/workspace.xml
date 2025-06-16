@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="684bed8f-eca9-47e1-9bc9-bd0110d636a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Maven\apache-maven-3.9.4-bin\apache-maven-3.9.4" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.9.4-bin\apache-maven-3.9.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="21" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vReAvLGFb1WZtK2F1UxlPMGiPq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AITest.testGeneratePath.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Demo01.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Demo01.test2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Demo01.test3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Demo01.test4.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LLMConfigTest.testStream.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test01.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test01.test21.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test01.testDelete.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Test01.testUpdate.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.mybatisTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.mybatisTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.mybatisTest.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-common [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-parent [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-parent [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-parent [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-parent [org.apache.maven.plugins:maven-clean-plugin:3.3.2:clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-parent [org.apache.maven.plugins:maven-install-plugin:3.1.3:install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-parent [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-parent [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-web [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.career-plan-web [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.CareerPlanWebApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CareerPlanWebApplication.executor&quot;: &quot;Run&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/jcode/Template/career-plan-parent&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.50689656&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="career.plan.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jcode\Spring_AI\career-plan-parent\career-plan-service\src\main\java\career\plan\websock" />
+      <recent name="E:\jcode\Spring_AI\career-plan-parent\career-plan-web\src\main\java\career\plan" />
+      <recent name="E:\jcode\Spring_AI\career-plan-parent\career-plan-common\src\main\java\career\plan\utils" />
+      <recent name="E:\jcode\Spring_AI\career-plan-parent\career-plan-common\src\main\java\career\plan" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jcode\Spring_AI\career-plan-parent\career-plan-dao\src\main\resources" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="career.plan.Interceptor" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="career.plan.util" />
+      <recent name="career.plan.utils" />
+      <recent name="career.plan.config" />
+      <recent name="career.plan.service.impl" />
+      <recent name="career.plan.vo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CareerPlanWebApplication">
+    <configuration default="true" type="JBossConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="serverGroup" value="" />
+          <option name="transportHostId" value="" />
+          <server-group />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="career-plan-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="career.plan.test.AIChatMemory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="career.plan.test.AIChatMemory" />
+      <option name="MAIN_CLASS_NAME" value="career.plan.test.AIChatMemory.Demo01" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="career-plan-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="career.plan.test.AIChatMemory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="career.plan.test.AIChatMemory" />
+      <option name="MAIN_CLASS_NAME" value="career.plan.test.AIChatMemory.Demo01" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="career-plan-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="career.plan.test.AIChatMemory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="career.plan.test.AIChatMemory" />
+      <option name="MAIN_CLASS_NAME" value="career.plan.test.AIChatMemory.Demo01" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="career-plan-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="career.plan.test.mongodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="career.plan.test.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="career.plan.test.mongodb.Test01" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CareerPlanWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="career-plan-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="career.plan.CareerPlanWebApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="career.plan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="$PROJECT_DIR$/src/main/java" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Demo01.test2" />
+      <item itemvalue="JUnit.Demo01.test3" />
+      <item itemvalue="JUnit.Demo01.test4" />
+      <item itemvalue="JUnit.Test01.testDelete" />
+      <item itemvalue="Spring Boot.CareerPlanWebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CareerPlanWebApplication" />
+        <item itemvalue="JUnit.Demo01.test4" />
+        <item itemvalue="JUnit.Demo01.test3" />
+        <item itemvalue="JUnit.Demo01.test2" />
+        <item itemvalue="JUnit.Test01.testDelete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="684bed8f-eca9-47e1-9bc9-bd0110d636a4" name="Changes" comment="" />
+      <created>1744112174521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744112174521</updated>
+      <workItem from="1744112175592" duration="145000" />
+      <workItem from="1744112328283" duration="5552000" />
+      <workItem from="1744173796974" duration="18773000" />
+      <workItem from="1744260091960" duration="17629000" />
+      <workItem from="1744280027141" duration="484000" />
+      <workItem from="1744290148295" duration="8000" />
+      <workItem from="1744332329538" duration="31429000" />
+      <workItem from="1744389525718" duration="6655000" />
+      <workItem from="1744422824474" duration="17035000" />
+      <workItem from="1744446369942" duration="15630000" />
+      <workItem from="1744510231639" duration="40196000" />
+      <workItem from="1744591144494" duration="12695000" />
+      <workItem from="1744623230762" duration="13924000" />
+      <workItem from="1744677168481" duration="12483000" />
+      <workItem from="1744692996598" duration="29943000" />
+      <workItem from="1744779465609" duration="18211000" />
+      <workItem from="1744805322716" duration="8607000" />
+      <workItem from="1744851068965" duration="29270000" />
+      <workItem from="1744936529143" duration="43097000" />
+      <workItem from="1745028154978" duration="18652000" />
+      <workItem from="1745050106290" duration="33000" />
+      <workItem from="1745052432827" duration="2152000" />
+      <workItem from="1745068517439" duration="1047000" />
+      <workItem from="1745072272857" duration="234000" />
+      <workItem from="1745116164522" duration="7507000" />
+      <workItem from="1745195583885" duration="4807000" />
+      <workItem from="1745218422456" duration="16000" />
+      <workItem from="1745223347599" duration="783000" />
+      <workItem from="1745228578927" duration="969000" />
+      <workItem from="1745234730462" duration="374000" />
+      <workItem from="1745287431434" duration="2686000" />
+      <workItem from="1745291064849" duration="2937000" />
+      <workItem from="1745308181408" duration="4106000" />
+      <workItem from="1745382064512" duration="39000" />
+      <workItem from="1745555815607" duration="911000" />
+      <workItem from="1745563583148" duration="3101000" />
+      <workItem from="1745584765850" duration="662000" />
+      <workItem from="1745636871921" duration="19000" />
+      <workItem from="1745716751568" duration="22000" />
+      <workItem from="1745895533082" duration="454000" />
+      <workItem from="1746011472684" duration="531000" />
+      <workItem from="1746439634456" duration="19000" />
+      <workItem from="1746619358961" duration="3498000" />
+      <workItem from="1746704568386" duration="5628000" />
+      <workItem from="1746753959325" duration="8960000" />
+      <workItem from="1746863029774" duration="19867000" />
+      <workItem from="1746931142133" duration="632000" />
+      <workItem from="1746958983274" duration="9348000" />
+      <workItem from="1747008903609" duration="9556000" />
+      <workItem from="1747041978224" duration="4347000" />
+      <workItem from="1747053380632" duration="3682000" />
+      <workItem from="1747097740051" duration="11783000" />
+      <workItem from="1747116031271" duration="3950000" />
+      <workItem from="1747121710135" duration="328000" />
+      <workItem from="1747135937247" duration="670000" />
+      <workItem from="1747141571299" duration="425000" />
+      <workItem from="1747200194036" duration="613000" />
+      <workItem from="1747276001802" duration="8991000" />
+      <workItem from="1747296345051" duration="91000" />
+      <workItem from="1747296449903" duration="7571000" />
+      <workItem from="1747363222323" duration="640000" />
+      <workItem from="1747475464309" duration="3023000" />
+      <workItem from="1747614738742" duration="302000" />
+      <workItem from="1747615347618" duration="194000" />
+      <workItem from="1747615608554" duration="2000" />
+      <workItem from="1747616196791" duration="6814000" />
+      <workItem from="1747624116347" duration="1797000" />
+      <workItem from="1747708963671" duration="96000" />
+      <workItem from="1747890414014" duration="8397000" />
+      <workItem from="1747909074347" duration="619000" />
+      <workItem from="1747915540450" duration="749000" />
+      <workItem from="1747987151699" duration="2856000" />
+      <workItem from="1748219485106" duration="146000" />
+      <workItem from="1748219854200" duration="85000" />
+      <workItem from="1748614070800" duration="1050000" />
+      <workItem from="1748846795105" duration="11000" />
+      <workItem from="1748859349515" duration="186000" />
+      <workItem from="1748869143130" duration="324000" />
+      <workItem from="1749453855580" duration="1420000" />
+      <workItem from="1749455359502" duration="54000" />
+      <workItem from="1749458637915" duration="420000" />
+      <workItem from="1749550060221" duration="1615000" />
+    </task>
+    <task id="LOCAL-00001" summary=":tada: 完成接收用户问题答案，推荐职位功能">
+      <option name="closed" value="true" />
+      <created>1744280297072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744280297072</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":white_check_mark: 完成核心功能！职业测评，专业测评，用消息队列，避免堵塞，修改bug,保存ai分析的数据">
+      <option name="closed" value="true" />
+      <created>1744468004969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744468004970</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":white_check_mark: 添加历史测评记录，添加缓存，优化简历相关接口，并且添加字段，默认简历，生成学习路径（目前测试有bug）">
+      <option name="closed" value="true" />
+      <created>1744553951199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744553951199</updated>
+    </task>
+    <task id="LOCAL-00004" summary=":sparkles: 写了一个生成学习路径的接口,但是目前有问题,然后前端测试也出现了很多问题...">
+      <option name="closed" value="true" />
+      <created>1744639698064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744639698064</updated>
+    </task>
+    <task id="LOCAL-00005" summary=":white_check_mark: 生成学习路径功能已经完善，添加了一些获取的接口">
+      <option name="closed" value="true" />
+      <created>1744724440401</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744724440401</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加分页查询职业，专业，并且添加分类字段，支持模糊查找。添加简单评论功能">
+      <option name="closed" value="true" />
+      <created>1744809840948</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744809840948</updated>
+    </task>
+    <task id="LOCAL-00007" summary=":bookmark: 完成核心功能，添加消息队列处理学习路径状态，用消息队列实现更新的操作节点，进度的">
+      <option name="closed" value="true" />
+      <created>1744883604403</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744883604403</updated>
+    </task>
+    <task id="LOCAL-00008" summary=":white_check_mark: 添加记录笔记的功能，对删除操作添加一次逻辑判断，举报评论添加redis,防止用户重复举报">
+      <option name="closed" value="true" />
+      <created>1744941104706</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744941104706</updated>
+    </task>
+    <task id="LOCAL-00009" summary=":white_check_mark: 修复学习路径的bug,添加删除简历的功能，修改ai提示词，让其生成正确的学习路径，修改逻辑，修复mybatis返回错误信息的bug,添加配置解决了此问题">
+      <option name="closed" value="true" />
+      <created>1745045632222</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745045632222</updated>
+    </task>
+    <task id="LOCAL-00010" summary=":bug: 添加Cors配置，在配置学习路径传递用户的默认简历">
+      <option name="closed" value="true" />
+      <created>1745117660380</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745117660380</updated>
+    </task>
+    <task id="LOCAL-00011" summary=":art: 修改cors配置（前端地址修改），在读取消息时，添加消费者组的检查，增强代码的健壮">
+      <option name="closed" value="true" />
+      <created>1745196692858</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745196692858</updated>
+    </task>
+    <task id="LOCAL-00012" summary=":ambulance: 不拦截测试接口">
+      <option name="closed" value="true" />
+      <created>1745233516135</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745233516135</updated>
+    </task>
+    <task id="LOCAL-00013" summary=":white_check_mark: 添加用户可以主动生成专业/职业接口，初步测试已通过">
+      <option name="closed" value="true" />
+      <created>1746762762607</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746762762607</updated>
+    </task>
+    <task id="LOCAL-00014" summary=":white_check_mark: 搞定AI记忆以及聊天记录存储问题">
+      <option name="closed" value="true" />
+      <created>1746889287591</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746889287591</updated>
+    </task>
+    <task id="LOCAL-00015" summary=":white_check_mark: 完成基础的AI模拟面试以及存储">
+      <option name="closed" value="true" />
+      <created>1746969996342</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746969996342</updated>
+    </task>
+    <task id="LOCAL-00016" summary=":white_check_mark: 完成模拟面试等功能">
+      <option name="closed" value="true" />
+      <created>1747115436073</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1747115436073</updated>
+    </task>
+    <task id="LOCAL-00017" summary=":white_check_mark: 添加用户简介，添加用户头像">
+      <option name="closed" value="true" />
+      <created>1747296153144</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1747296153144</updated>
+    </task>
+    <task id="LOCAL-00018" summary=":white_check_mark: 添加一个字段">
+      <option name="closed" value="true" />
+      <created>1747303735083</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1747303735083</updated>
+    </task>
+    <task id="LOCAL-00019" summary="修改一个获取职位的小bug">
+      <option name="closed" value="true" />
+      <created>1747363426826</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747363426826</updated>
+    </task>
+    <task id="LOCAL-00020" summary="将测试使用的stream替换为rabbitMQ，修复获取历史记录不排序的问题">
+      <option name="closed" value="true" />
+      <created>1747623520545</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747623520545</updated>
+    </task>
+    <task id="LOCAL-00021" summary=":bug: 解决专业测评错误">
+      <option name="closed" value="true" />
+      <created>1747625561053</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1747625561053</updated>
+    </task>
+    <task id="LOCAL-00022" summary=":bug: 优化流式输出">
+      <option name="closed" value="true" />
+      <created>1749454044170</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1749454044170</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":tada: 完成接收用户问题答案，推荐职位功能" />
+    <MESSAGE value=":white_check_mark: 完成核心功能！职业测评，专业测评，用消息队列，避免堵塞，修改bug,保存ai分析的数据" />
+    <MESSAGE value=":white_check_mark: 添加历史测评记录，添加缓存，优化简历相关接口，并且添加字段，默认简历，生成学习路径（目前测试有bug）" />
+    <MESSAGE value=":sparkles: 写了一个生成学习路径的接口,但是目前有问题,然后前端测试也出现了很多问题..." />
+    <MESSAGE value=":white_check_mark: 生成学习路径功能已经完善，添加了一些获取的接口" />
+    <MESSAGE value="添加分页查询职业，专业，并且添加分类字段，支持模糊查找。添加简单评论功能" />
+    <MESSAGE value=":bookmark: 完成核心功能，添加消息队列处理学习路径状态，用消息队列实现更新的操作节点，进度的" />
+    <MESSAGE value=":white_check_mark: 添加记录笔记的功能，对删除操作添加一次逻辑判断，举报评论添加redis,防止用户重复举报" />
+    <MESSAGE value=":white_check_mark: 修复学习路径的bug,添加删除简历的功能，修改ai提示词，让其生成正确的学习路径，修改逻辑，修复mybatis返回错误信息的bug,添加配置解决了此问题" />
+    <MESSAGE value=":bug: 添加Cors配置，在配置学习路径传递用户的默认简历" />
+    <MESSAGE value=":art: 修改cors配置（前端地址修改），在读取消息时，添加消费者组的检查，增强代码的健壮" />
+    <MESSAGE value=":ambulance: 不拦截测试接口" />
+    <MESSAGE value=":white_check_mark: 添加用户可以主动生成专业/职业接口，初步测试已通过" />
+    <MESSAGE value=":white_check_mark: 搞定AI记忆以及聊天记录存储问题" />
+    <MESSAGE value=":white_check_mark: 完成基础的AI模拟面试以及存储" />
+    <MESSAGE value=":white_check_mark: 完成模拟面试等功能" />
+    <MESSAGE value=":white_check_mark: 添加用户简介，添加用户头像" />
+    <MESSAGE value=":white_check_mark: 添加一个字段" />
+    <MESSAGE value="修改一个获取职位的小bug" />
+    <MESSAGE value="将测试使用的stream替换为rabbitMQ，修复获取历史记录不排序的问题" />
+    <MESSAGE value=":bug: 解决专业测评错误" />
+    <MESSAGE value=":bug: 优化流式输出" />
+    <option name="LAST_COMMIT_MESSAGE" value=":bug: 优化流式输出" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/career-plan-service/src/main/java/career/plan/service/impl/QuestionServiceImpl.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/career-plan-service/src/main/java/career/plan/service/impl/QuestionServiceImpl.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/career-plan-service/src/main/java/career/plan/service/impl/QuestionServiceImpl.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="career.plan.test.AIChatMemory.Demo01" memberName="assistant" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this.this$0" custom="java.lang.reflect.Proxy,java.lang.reflect.InvocationHandler" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

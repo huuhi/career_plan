@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="career.plan.mapper.MajorsMapper">
+
+    <resultMap id="BaseResultMap" type="career.plan.domain.Majors">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="title" column="title" jdbcType="VARCHAR"/>
+            <result property="studyDuration" column="study_duration" jdbcType="TINYINT"/>
+            <result property="description" column="description" jdbcType="VARCHAR"/>
+            <result property="degreeType" column="degree_type" jdbcType="OTHER"/>
+            <result property="trainingObjectives" column="training_objectives" jdbcType="VARCHAR"/>
+            <result property="professionalFeatures" column="professional_features" jdbcType="VARCHAR"/>
+            <result property="coreCourses" column="core_courses" jdbcType="VARCHAR"/>
+            <result property="practicalTraining" column="practical_training" jdbcType="VARCHAR"/>
+            <result property="careerProspects" column="career_prospects" jdbcType="VARCHAR"/>
+            <result property="recommendedFor" column="recommended_for" jdbcType="VARCHAR"/>
+            <result property="createdAt" column="created_at" jdbcType="TIMESTAMP"/>
+            <result property="updatedAt" column="updated_at" jdbcType="TIMESTAMP"/>
+    </resultMap>
+</mapper>
